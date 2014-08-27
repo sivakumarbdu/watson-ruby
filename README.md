@@ -1,9 +1,9 @@
 watson-ruby
 ===========
 
-1. gem install watson-ruby
-2. $ cd watson-demo
-3. nano test-watson.rb
+*. gem install watson-ruby
+*. $ cd watson-demo
+*. nano test-watson.rb
 
 ```ruby
   a = 1
