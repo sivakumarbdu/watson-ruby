@@ -5,13 +5,13 @@ watson-ruby
 2. $ cd watson-demo
 3. nano test-watson.rb
 
-``ruby
+```ruby
   a = 1
   b = 2
   #[review] - Replace variable with proper name 
- c = a +b
+  c = a +b
 
-``
+```
 4. watson 
 5. watson -r github
 
